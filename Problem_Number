@@ -21,5 +21,9 @@ DFS, BFS, 다익스트라, 순열 알고리즘, 비트연산자
 
 #-------------2017년 9월 8일------------
 이지1 : https://leetcode.com/problems/array-partition-i/description/ - CLEAR
-이지2 : https://leetcode.com/problems/reshape-the-matrix/description/
-미디움 : https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+이지2 : https://leetcode.com/problems/reshape-the-matrix/description/ - CLEAR
+미디움 : https://leetcode.com/problems/find-all-duplicates-in-an-array/description/ - CLEAR
+
+#-------------2017년 9월 13일-----------
+이지 : https://leetcode.com/problems/climbing-stairs/description/ - CLEAR
+미디움 : https://leetcode.com/problems/palindromic-substrings/description/
