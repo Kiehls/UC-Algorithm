@@ -1,8 +1,8 @@
 //
-//  main.cpp
+//  BEAKJOON1697(숨바꼭질).cpp
 //  Algorithm
 //
-//  Created by Seungsoo on 1/15/18.
+//  Created by Seungsoo on 3/25/18.
 //  Copyright © 2018 Seungsoo. All rights reserved.
 //
 
@@ -42,19 +42,20 @@ void BFS(int pos, int count) {
                 next_pos = cur_pos + direction[i];
             
             if(0 <= next_pos && next_pos <= 100000) {
-               if(!checked[next_pos]) {
-                   path.push({next_pos, cur_count + 1});
-                   checked[next_pos] = true;
-               }
+                if(!checked[next_pos]) {
+                    path.push({next_pos, cur_count + 1});
+                    checked[next_pos] = true;
+                }
             }
         }
     }
     
 }
-    
+
 int main() {
     std::cin >> N >> K;
     BFS(N, 0);
     return 0;
 }
+
 
