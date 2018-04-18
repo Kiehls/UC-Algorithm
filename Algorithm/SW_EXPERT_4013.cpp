@@ -1,5 +1,5 @@
 //
-//  SW_EXPERT_4013.cpp
+//  SW_EXPERT_4013.cpp 특이한 자석
 //  Algorithm
 //
 //  Created by Seungsoo on 3/27/18.
